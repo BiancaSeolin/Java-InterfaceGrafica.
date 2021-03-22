@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package vendacarros;
+package controleempregados1;
 
 /**
  *
@@ -11,8 +11,13 @@ package vendacarros;
  */
 public class main {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        JanelaGrafica janelaGrafica = new JanelaGrafica();
+        
+        JanelaGrafica Janela = new JanelaGrafica();
+        
     }
     
 }
